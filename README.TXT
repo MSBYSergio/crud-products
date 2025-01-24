@@ -1,0 +1,1 @@
+cruds-products
